@@ -1,0 +1,10 @@
+img {
+    width: 30px;
+}
+
+#goldshark {
+    border-style: solid;
+    border-color: gold;
+    border-width: 7px;
+    
+}
